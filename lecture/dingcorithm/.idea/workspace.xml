@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7a468ee-ab8a-4c5a-86bc-d310e43fc722" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2st_week/02_03_get_node_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_04_add_node_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_06_get_linked_list_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_07_is_existing_target_number_sequential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_08_is_existing_target_number.binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_09_is_exsiting_target_number_binary_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_10_count_down_recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_11_factorial_recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_12_is_palindrome_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_13_get_kth_node_from_last.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_14_is_available_to_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_15_is_available_to_order_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2st_week/02_16_get_count_of_ways_to_target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dingcorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dingcorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3A9Jb97GkcIlVrihp910482lt4W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_01_find_max_num.executor": "Run",
+    "Python.02_01_class.executor": "Run",
+    "Python.02_02_append_linked_list.executor": "Run",
+    "Python.02_03_get_node_linked_list.executor": "Run",
+    "Python.02_06_get_linked_list_sum.executor": "Run",
+    "Python.02_09_is_exsiting_target_number_binary_2.executor": "Run",
+    "Python.02_10_count_down_recursive.executor": "Run",
+    "Python.02_11_factorial_recursive.executor": "Run",
+    "Python.02_12_is_palindrome_for.executor": "Run",
+    "Python.02_14_is_available_to_order.executor": "Run",
+    "Python.02_16_get_count_of_ways_to_target.executor": "Run",
+    "Python.03_13_get_kth_node_from_last.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7a468ee-ab8a-4c5a-86bc-d310e43fc722" name="Changes" comment="" />
+      <created>1771998921512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771998921512</updated>
+      <workItem from="1771998922518" duration="41000" />
+      <workItem from="1771998979405" duration="7437000" />
+      <workItem from="1772061484472" duration="3902000" />
+      <workItem from="1772495858495" duration="5031000" />
+      <workItem from="1772581721650" duration="8097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dingcorithm$main.coverage" NAME="main Coverage Results" MODIFIED="1771999130151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_02_append_linked_list.coverage" NAME="02_02_append_linked_list Coverage Results" MODIFIED="1771999466117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_16_get_count_of_ways_to_target.coverage" NAME="02_16_get_count_of_ways_to_target Coverage Results" MODIFIED="1772591012343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_06_get_linked_list_sum.coverage" NAME="02_06_get_linked_list_sum Coverage Results" MODIFIED="1772496302248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_11_factorial_recursive.coverage" NAME="02_11_factorial_recursive Coverage Results" MODIFIED="1772582213325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_03_get_node_linked_list.coverage" NAME="02_03_get_node_linked_list Coverage Results" MODIFIED="1772001073669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_12_is_palindrome_for.coverage" NAME="02_12_is_palindrome_for Coverage Results" MODIFIED="1772582817805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$01_01_find_max_num.coverage" NAME="01_01_find_max_num Coverage Results" MODIFIED="1771999132889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_14_is_available_to_order.coverage" NAME="02_14_is_available_to_order Coverage Results" MODIFIED="1772587616995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_09_is_exsiting_target_number_binary_2.coverage" NAME="02_09_is_exsiting_target_number_binary_2 Coverage Results" MODIFIED="1772497824216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_01_class.coverage" NAME="02_01_class Coverage Results" MODIFIED="1771999462312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$02_10_count_down_recursive.coverage" NAME="02_10_count_down_recursive Coverage Results" MODIFIED="1772581856861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+    <SUITE FILE_PATH="coverage/dingcorithm$03_13_get_kth_node_from_last.coverage" NAME="03_13_get_kth_node_from_last Coverage Results" MODIFIED="1772584491890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2st_week" />
+  </component>
+</project>

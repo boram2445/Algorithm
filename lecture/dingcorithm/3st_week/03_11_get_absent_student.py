@@ -5,7 +5,7 @@ present_students = ["정연", "모모", "채영", "쯔위", "사나", "나연", 
 def get_absent_student(all_array, present_array):
     # 1. 정렬 -> 다시 돌면서 다른부분 찾기 n
 
-    # 2. Dictionary, Hash table
+    # 2. Dictionary, Hash tableb
     dict = {}
     for student in all_array:
         dict[student] = True
